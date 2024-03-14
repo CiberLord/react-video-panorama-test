@@ -1,0 +1,866 @@
+{
+  '0': {
+    unsignedInternalUrl: '//realty.ya.ru/offer/4062561591082746624',
+    appMiddleSnippetImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/app_snippet_middle',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/app_snippet_middle'
+    ],
+    promoted: true,
+    building: {
+      builtYear: 2014,
+      buildingState: 'HAND_OVER',
+      buildingType: 'MONOLIT',
+      buildingSeries: 'индивидуальный проект',
+      buildingSeriesId: '1564812',
+      improvements: {
+        LIFT: true,
+        RUBBISH_CHUTE: true,
+        GUARDED: false,
+        SECURITY: true
+      },
+      parkingType: 'OPEN',
+      siteId: 2508,
+      siteName: 'Ласточкино гнездо',
+      siteDisplayName: 'ЖК «Ласточкино гнездо»',
+      developerIds: [
+        23900
+      ],
+      houseId: '34598',
+      houseReadableName: 'Корпус 5',
+      buildingId: '6563554046625816164',
+      flatsCount: 377,
+      porchesCount: 4,
+      heatingType: 'CENTRAL',
+      locativeFullName: 'в ЖК «Ласточкино гнездо»',
+      priceStatistics: {
+        sellPricePerSquareMeter: {
+          level: 7,
+          maxLevel: 9,
+          rgbColor: '30ce12',
+          value: '153119',
+          regionValueFrom: '13334',
+          regionValueTo: '2238921'
+        },
+        sellPriceByRooms: {
+          '2': {
+            level: 4,
+            maxLevel: 9,
+            rgbColor: 'fbae1e',
+            value: '8575000',
+            regionValueFrom: '530000',
+            regionValueTo: '66913500'
+          }
+        },
+        profitability: {
+          level: 7,
+          maxLevel: 9,
+          rgbColor: '30ce12',
+          value: '16',
+          regionValueFrom: '3',
+          regionValueTo: '59'
+        }
+      },
+      hasDeveloperChat: false,
+      apartmentType: 'FLATS',
+      buildingImprovementsMap: {
+        LIFT: true,
+        RUBBISH_CHUTE: true,
+        GUARDED: false,
+        SECURITY: true
+      }
+    },
+    fullImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/large',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/large'
+    ],
+    allowedCommunicationChannels: [
+      'COM_CALLS'
+    ],
+    price: {
+      currency: 'RUR',
+      value: 4650000,
+      period: 'WHOLE_LIFE',
+      unit: 'WHOLE_OFFER',
+      trend: 'DECREASED',
+      previous: 4850000,
+      hasPriceHistory: true,
+      valuePerPart: 172222,
+      unitPerPart: 'SQUARE_METER',
+      valueForWhole: 4650000,
+      unitForWhole: 'WHOLE_OFFER',
+      price: {
+        value: 4650000,
+        currency: 'RUB',
+        priceType: 'PER_OFFER',
+        pricingPeriod: 'WHOLE_LIFE'
+      },
+      pricePerPart: {
+        value: 172222,
+        currency: 'RUB',
+        priceType: 'PER_METER',
+        pricingPeriod: 'WHOLE_LIFE'
+      },
+      priceForWhole: {
+        value: 4650000,
+        currency: 'RUB',
+        priceType: 'PER_OFFER',
+        pricingPeriod: 'WHOLE_LIFE'
+      }
+    },
+    appMiddleImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/app_middle',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/app_middle'
+    ],
+    origImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/orig',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/orig'
+    ],
+    commissioningDateIndexValue: 0,
+    hasPaidCalls: true,
+    exclusive: true,
+    floorsTotal: 24,
+    area: {
+      value: 27,
+      unit: 'SQUARE_METER'
+    },
+    partnerInternalId: '4062561591082746624',
+    floorsOffered: [
+      15
+    ],
+    author: {
+      id: '0',
+      category: 'AGENCY',
+      agentName: 'Яндекс Недвижимость',
+      creationDate: '2023-11-14T11:23:10Z',
+      humanPhoto: '//avatars.mds.yandex.net/get-yapic/63032/ptW0JATjYD63joxEjddLLjoag8-1/islands-200',
+      profile: {
+        userType: 'AGENCY',
+        name: 'Яндекс Недвижимость',
+        logo: {
+          origin: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/orig',
+          minicard: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/minicard',
+          main: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/main',
+          alike: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/alike',
+          large: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/large',
+          cosmic: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/cosmic',
+          appMiddle: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/app_middle',
+          appLarge: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/app_large',
+          appSnippetMini: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/app_snippet_mini',
+          appSnippetSmall: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/app_snippet_small',
+          appSnippetMiddle: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/app_snippet_middle',
+          appSnippetLarge: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/app_snippet_large',
+          optimize: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/optimize',
+          large1242: '//avatars.mds.yandex.net/get-realty-content/9526937/add.1710252669170314df2ba16/large_1242'
+        }
+      },
+      allowedCommunicationChannels: [
+        'COM_CALLS'
+      ],
+      redirectPhonesFailed: false,
+      redirectPhones: true,
+      encryptedPhoneNumbers: [
+        {
+          phone: 'KzcF5NHjYJxOLDYNyMPDgRx',
+          redirectId: '6O_I7lCin9g'
+        }
+      ],
+      encryptedPhones: [
+        'KzcF5NHjYJxOLDYNyMPDgRx'
+      ]
+    },
+    enrichedFields: [
+      'BUILDING_SERIES_ID',
+      'SECURITY',
+      'GUARDED',
+      'PORCHES_COUNT',
+      'GAS',
+      'HEATING_TYPE',
+      'FLATS_COUNT'
+    ],
+    minicardImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/minicard',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/minicard'
+    ],
+    active: true,
+    vas: {
+      raised: true,
+      premium: false,
+      placement: false,
+      promoted: true,
+      turboSale: false,
+      raisingSale: false,
+      campaignType: 'RAISE',
+      tuzFeatured: true,
+      vasAvailable: true
+    },
+    mainImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/main',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/main'
+    ],
+    paidReportAccessibility: 'PPA_NOT_ALLOWED_TO_BUY',
+    suspicious: false,
+    dealStatus: 'SALE',
+    creationDate: '2024-02-20T10:22:56Z',
+    relevance: 0,
+    tags: [
+      {
+        id: '1794263',
+        title: 'железная дорога'
+      },
+      {
+        id: '1794438',
+        title: 'продажа'
+      },
+      {
+        id: '1794553',
+        title: 'спорт'
+      }
+    ],
+    offerLinks: {
+      subjectFederationSearchLink: '/sankt-peterburg_i_leningradskaya_oblast/kupit/kvartira/',
+      subjectFederationDistrictSearchLink: '/slantsevskiy_rayon/kupit/kvartira/',
+      mainCitySearchLink: '/sankt-peterburg/kupit/kvartira/',
+      streetSearchLink: '/sankt-peterburg/kupit/kvartira/st-rusanovskaya-ulica-173263/',
+      houseSearchLink: '/sankt-peterburg/kupit/kvartira/st-rusanovskaya-ulica-173263/dom-19k1-6563554046625816164/',
+      metroSearchLinks: [
+        '/sankt-peterburg_i_leningradskaya_oblast/kupit/kvartira/metro-lomonosovskaya/',
+        '/sankt-peterburg_i_leningradskaya_oblast/kupit/kvartira/metro-ulitsa-dybenko/',
+        '/sankt-peterburg_i_leningradskaya_oblast/kupit/kvartira/metro-elizarovskaya/',
+        '/sankt-peterburg_i_leningradskaya_oblast/kupit/kvartira/metro-prospekt-bolshevikov/'
+      ],
+      roomsSearchLink: '/sankt-peterburg_i_leningradskaya_oblast/kupit/kvartira/studiya/',
+      newbuildingCardLink: '/sankt-peterburg_i_leningradskaya_oblast/kupit/novostrojka/lastochkino-gnezdo-2508/',
+      agencyCardLink: '/sankt-peterburg_i_leningradskaya_oblast/agentstva/yandeks-nedvizhimost-1914785283/',
+      agencySearchLink: '/sankt-peterburg_i_leningradskaya_oblast/kupit/kvartira/?profileUid=1914785283'
+    },
+    appLargeSnippetImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/app_snippet_large',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/app_snippet_large'
+    ],
+    tuzInfo: {
+      active: true,
+      tuzParams: [
+        {
+          key: 'tuzParamRgid',
+          value: '741965'
+        },
+        {
+          key: 'tuzParamType',
+          value: 'SELL'
+        },
+        {
+          key: 'tuzParamCategory',
+          value: 'APARTMENT'
+        },
+        {
+          key: 'tuzParamPartner',
+          value: '1035218734'
+        },
+        {
+          key: 'tuzParamUid',
+          value: '1914785283'
+        },
+        {
+          key: 'tuzParamClass',
+          value: 'ECONOMY'
+        },
+        {
+          key: 'tariff',
+          value: 'listing_maximum'
+        }
+      ],
+      tuzFeatured: true,
+      promotion: true,
+      raising: true,
+      clientId: 106628413,
+      tariffType: {
+        listingMaximum: {}
+      }
+    },
+    large1242Images: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/large_1242',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/large_1242'
+    ],
+    trustedOfferInfo: {
+      isFullTrustedOwner: false,
+      ownerTrustedStatus: 'NOT_LINKED_MOSRU',
+      isCadastrPersonMatched: false,
+      agencyTrustedUserInfo: {
+        fullTrustedAgencyOwner: false,
+        lingStatus: 'NOT_OPENED',
+        timeWasOpened: '0'
+      }
+    },
+    offerId: '4062561591082746624',
+    yandexRent: false,
+    shareUrl: 'https://realty.ya.ru/offer/4062561591082746624',
+    freeReportAccessibility: 'FRA_NONE',
+    withExcerpt: false,
+    vasAvailable: true,
+    flatType: 'SECONDARY',
+    placement: false,
+    socialPessimization: false,
+    clusterHeader: true,
+    trust: 'NORMAL',
+    updateDate: '2024-03-18T10:02:00Z',
+    internal: true,
+    appSmallSnippetImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/app_snippet_small',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/app_snippet_small'
+    ],
+    appLargeImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/app_large',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/app_large'
+    ],
+    supplyMap: {
+      GAS: false
+    },
+    obsolete: false,
+    description: 'Свободная продажа, быстрый выход на безопасную сделку, квартира проверена юристами по 7 различным источникам. Мы сопроводим процесс на всех этапах  от аванса до расчетов. Продаётся уютная квартира в удобном районе с развитой инфраструктурой и',
+    clusterId: '4062561591082746624',
+    house: {
+      bathroomUnit: 'MATCHED',
+      balconyType: 'LOGGIA',
+      studio: true,
+      apartments: false,
+      housePart: false
+    },
+    appMiniSnippetImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/app_snippet_mini',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/app_snippet_mini'
+    ],
+    platform: 'PLATFORM_DESKTOP',
+    notForAgents: false,
+    uid: '1914785283',
+    offerType: 'SELL',
+    chargeForCallsType: 'BY_TUZ',
+    premium: false,
+    transactionConditionsMap: {
+      MORTGAGE: true
+    },
+    newBuilding: false,
+    ceilingHeight: 2.75,
+    cosmicImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/cosmic',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/cosmic'
+    ],
+    callCenter: false,
+    partnerName: 'Яндекс.Недвижимость',
+    remoteReview: {
+      onlineShow: true,
+      youtubeVideoReviewUrl: ''
+    },
+    raised: true,
+    offerState: {
+      indexerState: {
+        indexationWarning: [
+          {
+            code: 'ROOMS_DROPPED',
+            debugInfo: 'ApartmentInfoUnifier'
+          },
+          {
+            code: 'DISABLED_CHATS_FOR_OWNER_TYPE',
+            debugInfo: 'AllowedCommunicationChannelsUnifier: AGENCY'
+          }
+        ]
+      }
+    },
+    url: '//realty.ya.ru/offer/4062561591082746624',
+    predictions: {
+      predictedPrice: {
+        min: '4366000',
+        max: '5336000',
+        value: '4851000'
+      }
+    },
+    clusterSize: 1,
+    newFlatSale: false,
+    totalImages: 15,
+    yandexProdaja: true,
+    photoPreviews: [
+      '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'
+    ],
+    primarySaleV2: false,
+    alikeImages: [
+      '//avatars.mds.yandex.net/get-realty/1514059/add.d45c5934792b5b23358032219d9257b1.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/174688/add.9339a7cda1a0b77141871996040c4074.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/1540622/add.c375d0ba394f43996c51b47740adb11c.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/758502/add.c496c2bde6affe948208557e046e3b2e.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/1020830/add.83d4f1cab0cc9936694b165b3832d83f.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/879918/add.9b31882730b0880acf41cfe5dc0f5662.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/1646006/add.ccd45cf6b6a85a6947437065dc98cb07.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/195712/add.fa1c9cdff4ad6e180e1096a5a4fe3d39.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/2021338/add.9b408b77e032bff8be59af2cbdf5b58b.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/10027551/add.1fa07527223dd6a0ccc08952c482b40e.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/1391126/add.9520ede4279886a5e15173e03a063e5e.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/5253756/add.52b29f29a49382077699a14b936d2e38.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/909350/add.096233e9531e86fc55a62ca9caf1b0d9.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/108329/add.38c531220d495b0a5929693c0c8883d4.realty-api-vos/alike',
+      '//avatars.mds.yandex.net/get-realty/62365/add.3972b8b33aa2b1a5fc387606ac1b41cd.realty-api-vos/alike'
+    ],
+    openPlan: false,
+    location: {
+      allHeatmaps: [
+        {
+          name: 'price-sell',
+          rgbColor: '30ce12',
+          description: 'низкая',
+          level: 7,
+          maxLevel: 9,
+          title: 'Цена продажи'
+        },
+        {
+          name: 'transport',
+          rgbColor: 'ee4613',
+          description: 'очень низкая',
+          level: 2,
+          maxLevel: 9,
+          title: 'Общественный транспорт'
+        },
+        {
+          name: 'carsharing',
+          rgbColor: 'fbae1e',
+          description: 'средняя',
+          level: 3,
+          maxLevel: 8,
+          title: 'Доступность Яндекс.Драйва'
+        }
+      ],
+      ponds: [
+        {
+          pondId: '141338318',
+          name: 'река Утка',
+          timeOnFoot: 180,
+          distanceOnFoot: 288,
+          latitude: 59.86237,
+          longitude: 30.511097,
+          timeDistanceList: [
+            {
+              transport: 'ON_FOOT',
+              time: 3,
+              distance: 288
+            }
+          ],
+          pondType: 'RIVER'
+        }
+      ],
+      structuredAddress: {
+        component: [
+          {
+            value: 'Россия',
+            geoId: 225,
+            regionGraphId: '143',
+            address: 'Россия',
+            regionType: 'COUNTRY',
+            queryParams: {
+              rgid: '143',
+              address: 'Россия'
+            },
+            populatedRgid: '143'
+          },
+          {
+            value: 'Санкт-Петербург',
+            geoId: 2,
+            regionGraphId: '417899',
+            address: 'Санкт-Петербург',
+            regionType: 'CITY',
+            queryParams: {
+              rgid: '417899',
+              address: 'Россия, Санкт-Петербург'
+            },
+            populatedRgid: '417899'
+          },
+          {
+            value: 'Русановская улица',
+            geoId: 2,
+            regionGraphId: '417899',
+            address: 'Русановская улица',
+            regionType: 'STREET',
+            queryParams: {
+              rgid: '417899',
+              address: 'Россия, Санкт-Петербург, Русановская улица'
+            },
+            populatedRgid: '417899'
+          },
+          {
+            value: '19к1',
+            geoId: 2,
+            regionGraphId: '417899',
+            address: '19к1',
+            regionType: 'HOUSE',
+            queryParams: {
+              rgid: '417899',
+              address: 'Россия, Санкт-Петербург, Русановская улица, 19к1'
+            },
+            populatedRgid: '417899'
+          }
+        ]
+      },
+      metroList: [
+        {
+          metroGeoId: 20314,
+          metroCityRgid: 417899,
+          name: 'Ломоносовская',
+          metroTransport: 'ON_TRANSPORT',
+          timeToMetro: 29,
+          latitude: 59.877335,
+          longitude: 30.441694,
+          minTimeToMetro: 29,
+          lineColors: [
+            '23a12c'
+          ],
+          rgbColor: '23a12c'
+        },
+        {
+          metroGeoId: 20316,
+          metroCityRgid: 417899,
+          name: 'Улица Дыбенко',
+          metroTransport: 'ON_TRANSPORT',
+          timeToMetro: 30,
+          latitude: 59.907436,
+          longitude: 30.483368,
+          minTimeToMetro: 30,
+          lineColors: [
+            'f07c1d'
+          ],
+          rgbColor: 'f07c1d'
+        },
+        {
+          metroGeoId: 20315,
+          metroCityRgid: 417899,
+          name: 'Елизаровская',
+          metroTransport: 'ON_TRANSPORT',
+          timeToMetro: 36,
+          latitude: 59.896645,
+          longitude: 30.423773,
+          minTimeToMetro: 36,
+          lineColors: [
+            '23a12c'
+          ],
+          rgbColor: '23a12c'
+        },
+        {
+          metroGeoId: 20317,
+          metroCityRgid: 417899,
+          name: 'Проспект Большевиков',
+          metroTransport: 'ON_TRANSPORT',
+          timeToMetro: 36,
+          latitude: 59.919865,
+          longitude: 30.466713,
+          minTimeToMetro: 36,
+          lineColors: [
+            'f07c1d'
+          ],
+          rgbColor: 'f07c1d'
+        }
+      ],
+      cityCenter: [
+        {
+          transport: 'ON_CAR',
+          time: 1645,
+          distance: 16620,
+          latitude: 59.933926,
+          longitude: 30.307991,
+          timeDistanceList: [
+            {
+              transport: 'ON_CAR',
+              time: 27,
+              distance: 16620
+            }
+          ]
+        }
+      ],
+      subjectFederationId: 10174,
+      point: {
+        latitude: 59.864838,
+        longitude: 30.512482,
+        precision: 'EXACT'
+      },
+      geoId: 2,
+      populatedRgid: 741965,
+      station: {
+        name: 'Обухово',
+        distanceKm: 3.684
+      },
+      geocoderAddress: 'Россия, Санкт-Петербург, Русановская улица, 19к1',
+      address: 'Санкт-Петербург, Русановская улица, 19к1',
+      rgid: 196778,
+      subjectFederationName: 'Санкт-Петербург и ЛО',
+      subjectFederationRgid: 741965,
+      heatmaps: [
+        {
+          name: 'transport',
+          rgbColor: 'ee4613',
+          description: 'очень низкая',
+          level: 2,
+          maxLevel: 9,
+          title: 'Общественный транспорт'
+        }
+      ],
+      airports: [
+        {
+          id: '858726',
+          name: 'Пулково',
+          timeOnCar: 1839,
+          distanceOnCar: 22107,
+          latitude: 59.79992,
+          longitude: 30.271744,
+          timeDistanceList: [
+            {
+              transport: 'ON_CAR',
+              time: 30,
+              distance: 22107
+            }
+          ]
+        }
+      ],
+      buildingId: '6563554046625816164',
+      streetAddress: 'Русановская улица, 19к1',
+      settlementGeoId: 2,
+      metro: {
+        metroGeoId: 20314,
+        metroCityRgid: 417899,
+        name: 'Ломоносовская',
+        metroTransport: 'ON_TRANSPORT',
+        timeToMetro: 29,
+        latitude: 59.877335,
+        longitude: 30.441694,
+        minTimeToMetro: 29,
+        lineColors: [
+          '23a12c'
+        ],
+        rgbColor: '23a12c'
+      },
+      settlementRgid: 417899,
+      streetId: 173263
+    },
+    partnerId: '1035218734',
+    virtualTours: [
+      {
+        provider: 'VSTOUR',
+        enabled: true,
+        vsTour: {
+          modelUrl: 'https://realty.ya.ru/d3-embedded/player/5bf180c9-7d7e-4a9d-bde6-963b318c3e7a',
+          previewUrl: {
+            origin: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/orig',
+            minicard: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/minicard',
+            main: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/main',
+            alike: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/alike',
+            large: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/large',
+            cosmic: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/cosmic',
+            appMiddle: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/app_middle',
+            appLarge: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/app_large',
+            appSnippetMini: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/app_snippet_mini',
+            appSnippetSmall: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/app_snippet_small',
+            appSnippetMiddle: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/app_snippet_middle',
+            appSnippetLarge: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/app_snippet_large',
+            optimize: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/optimize',
+            large1242: '//avatars.mds.yandex.net/get-realty-offers/10211679/eee07489-8d8b-4e83-9a45-2a4e64cffc32/large_1242'
+          },
+          mdsId: {
+            knownNamespace: 'REALTY_OFFERS',
+            group: 10211679,
+            name: 'eee07489-8d8b-4e83-9a45-2a4e64cffc32'
+          },
+          processedModelUrl: 'https://realty.ya.ru/d3-embedded/player/5bf180c9-7d7e-4a9d-bde6-963b318c3e7a',
+          video360x240Webm: {
+            modelUrl: 'https://3d-tours-preview.s3.yandex.net/5bf180c9-7d7e-4a9d-bde6-963b318c3e7a/touch.webm'
+          },
+          video360x240Mp4: {
+            modelUrl: 'https://3d-tours-preview.s3.yandex.net/5bf180c9-7d7e-4a9d-bde6-963b318c3e7a/touch.mp4'
+          },
+          video360x360Webm: {
+            modelUrl: 'https://3d-tours-preview.s3.yandex.net/5bf180c9-7d7e-4a9d-bde6-963b318c3e7a/desktop.webm'
+          },
+          video360x360Mp4: {
+            modelUrl: 'https://3d-tours-preview.s3.yandex.net/5bf180c9-7d7e-4a9d-bde6-963b318c3e7a/desktop.mp4'
+          }
+        }
+      }
+    ],
+    offerCategory: 'APARTMENT',
+    apartment: {
+      renovation: 'COSMETIC_DONE',
+      improvements: {
+        ROOM_FURNITURE: true,
+        KITCHEN_FURNITURE: true,
+        REFRIGERATOR: true,
+        NO_FURNITURE: false
+      }
+    },
+    roomsTotalKey: 'studio',
+    roomsTotalColor: '#3bbd25',
+    isProCardSite: false,
+    showA101ArendaSpec: false
+  }
+}

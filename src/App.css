@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  box-sizing: border-box;
+  padding: 64px 32px;
 }
 
 .App-logo {
@@ -35,4 +37,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.App_card + .App_card {
+  margin-top: 32px;
+}
+
+.Video_wrap {
+  width: 220px;
+  height: 186px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-sizing: border-box;
 }

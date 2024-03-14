@@ -1,0 +1,8 @@
+.container {
+    box-sizing: border-box;
+    width: 220px;
+    height: 186px;
+    border-radius: 8px;
+    background: rgba(187, 185, 187, 0.067);
+
+}
