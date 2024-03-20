@@ -1,3 +1,4 @@
+import { Logger } from '../../logger';
 import { MouseMoveVideoHelper } from './MouseMoveVideoHelper';
 import { ScrollMoveVideoHelper } from './ScrollMoveVideoHelper';
 
@@ -14,9 +15,11 @@ interface IMouseHandler {
     handleLeave: () => void;
 }
 
-interface IVideoControllerConfig {
-    canvas: HTMLCanvasElement
+interface IVideoControllerOptions {
+    disableHoverEffect?: boolean;
 }
+
+const logger = Logger.getLogger(1000);
 
 export class VideoController {
     public mouseHandler: IMouseHandler;
@@ -27,16 +30,13 @@ export class VideoController {
     private renderState: RenderState = RenderState.INITIAL;
     private scrollMoveHelper: ScrollMoveVideoHelper;
     private mouseMoveHelper: MouseMoveVideoHelper;
-    private canvas: HTMLCanvasElement;
-    private renderContext: CanvasRenderingContext2D | null;
+    private enableHover: boolean;
 
-    constructor(video: HTMLVideoElement, config: IVideoControllerConfig) {
+    constructor(video: HTMLVideoElement, options?: IVideoControllerOptions ) {
         this.video = video;
-        this.canvas = config.canvas;
-        this.renderContext = this.canvas.getContext('2d');
         this.scrollMoveHelper = new ScrollMoveVideoHelper(video);
         this.mouseMoveHelper = new MouseMoveVideoHelper(video);
-
+        this.enableHover = !Boolean(options?.disableHoverEffect);
         this.mouseHandler = {
             handleEnter: this.mouseMoveHelper.handleMouseEnter,
             handleLeave: this.mouseMoveHelper.handleMouseLeave,
@@ -74,9 +74,6 @@ export class VideoController {
         if (this.renderState !== RenderState.RUNNING) {
             this.renderState = RenderState.RUNNING;
             this.seeked = true;
-            this.canvas.width = this.video.videoWidth;
-            this.canvas.height = this.video.videoHeight;
-            this.renderContext?.drawImage(this.video, 0, 0, this.canvas.width, this.canvas.height);
             this.video.addEventListener('seeked', this.handleVideoSeeked);
 
             this.rafId = window.requestAnimationFrame(this.loop);
@@ -95,16 +92,27 @@ export class VideoController {
     }
 
     private render = () => {
-        if (this.mouseMoveHelper.hovered) {
-            this.video.currentTime = this.mouseMoveHelper.move();
+        let currentTime = undefined;
 
-            return;
+        const isHover = this.mouseMoveHelper.hovered && this.enableHover;
+
+        if (isHover) {
+            currentTime = this.mouseMoveHelper.move();
+        } else {
+            currentTime = this.scrollMoveHelper.move();
         }
 
-        this.video.currentTime = this.scrollMoveHelper.move();
+        if(typeof currentTime === 'number' && !isNaN(currentTime)) {
+            this.video.currentTime = currentTime;
 
-        this.renderContext?.clearRect(0, 0, this.canvas.width, this.canvas.height);
-        this.renderContext?.drawImage(this.video, 0, 0, this.canvas.width, this.canvas.height);
+            // logger.log({
+            //     context: 'VideoController',
+            //     fn: 'render',
+            //     payload: {
+            //         currentTime: this.video.currentTime
+            //     }
+            // })
+        }
     }
 
     private handleVideoSeeked = () => {

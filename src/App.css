@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   box-sizing: border-box;
-  padding: 64px 32px;
+  padding: 64px 8px;
 }
 
 .App-logo {
@@ -44,9 +44,14 @@
 }
 
 .Video_wrap {
-  width: 220px;
-  height: 186px;
+  max-width: 400px;
+  height: 200px;
   border-radius: 8px;
   overflow: hidden;
   box-sizing: border-box;
+}
+
+.Content_wrapper {
+  margin: 0 auto;
+  max-width: 520px;
 }

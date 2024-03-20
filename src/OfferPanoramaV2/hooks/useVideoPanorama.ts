@@ -3,9 +3,8 @@ import React, { useCallback, useRef, useState } from "react";
 import { VideoController } from "../utils/VideoController";
 
 
-export const useVideoPanorama = () => {
+export const useVideoPanorama = (isMobile?: boolean) => {
     const videoRef = useRef<HTMLVideoElement>(null);
-    const canvasRef = useRef<HTMLCanvasElement>(null);
     const videoControllerRef = useRef<VideoController | null>(null);
 
     const [isVisible, setIsVisible] = useState(false);
@@ -44,16 +43,12 @@ export const useVideoPanorama = () => {
             return;
         }
 
-        if(!canvasRef.current) {
-            return;
-        }
-
         if (isInView) {
             videoRef.current.load();
 
             // controller создаем один раз только при монтировании
             videoControllerRef.current = new VideoController(videoRef.current, {
-                canvas: canvasRef.current
+                disableHoverEffect: isMobile,
             });
 
             videoControllerRef.current.start();
@@ -71,6 +66,5 @@ export const useVideoPanorama = () => {
         handleMouseEnter,
         handleMouseMove,
         handleMouseLeave,
-        canvasRef
     }
 }

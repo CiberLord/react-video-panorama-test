@@ -299,8 +299,8 @@ class OfferPanorama extends React.PureComponent<IOfferPanoramaProps, IState> {
 
     getViedoUrls() {
         return {
-            mp4Url: 'https://s3.mds.yandex.net/3d-tours-preview/2764358b-32ee-47ef-9577-1244a9f558fc/desktop.mp4',
-            webmUrl: 'https://s3.mds.yandex.net/3d-tours-preview/2764358b-32ee-47ef-9577-1244a9f558fc/desktop.webm',
+            mp4Url: 'https://3d-tours-preview.s3.yandex.net/9b29d4f1-7a60-496d-90a2-5fda8806f33d/touch.mp4',
+            webmUrl: 'https://3d-tours-preview.s3.yandex.net/9b29d4f1-7a60-496d-90a2-5fda8806f33d/touch.webm',
         };
     }
 }

@@ -1,19 +1,11 @@
-const array = [
-    [30, 100, 10],
-    [12, 99, 23],
-    [10, 20, 40],
-];
+const path = require('node:path');
 
-const result_array = [];
+const fs = require('node:fs');
 
+const data = fs.readFileSync(path.resolve(process.cwd(), 'raw.json'), 'utf8');
 
-for (let i = 0; i < array.length; i = i + 1) {
-    let current_item = array[i]
+const json = JSON.parse(data);
 
-    for (let y = 0; y < current_item.length; y++) {
-        let str = current_item[y]
+const newData =JSON.stringify(json, null, 4);
 
-        result_array.push(str)
-    }
-}
-console.log(result_array)
+fs.writeFileSync(path.resolve(process.cwd(), 'formatted.json'), newData)

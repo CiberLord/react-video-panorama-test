@@ -1,4 +1,4 @@
-import React, { PropsWithChildren, useCallback, useEffect, useRef, useState } from 'react';
+import React, { PropsWithChildren } from 'react';
 import cn from 'classnames';
 import { InView } from 'react-intersection-observer';
 
@@ -8,23 +8,23 @@ import { useVideoPanorama } from './hooks/useVideoPanorama';
 interface IOfferPanoramaProps {
     className?: string;
     onErrorVideoLoad?: () => void;
+    isMobile?: boolean;
 }
 
-export const OfferPanorama: React.FC<PropsWithChildren<IOfferPanoramaProps>> = ({ children, onErrorVideoLoad, className, }) => {
+export const OfferPanorama: React.FC<PropsWithChildren<IOfferPanoramaProps>> = ({ children, isMobile, onErrorVideoLoad, className, }) => {
     const { 
         videoRef,
-        canvasRef,
         handleIntersection, 
         handleVideoLoaded, 
         handleMouseEnter, 
         handleMouseLeave, 
-        handleMouseMove 
-    } = useVideoPanorama();
+        handleMouseMove,
+    } = useVideoPanorama(true);
 
     const getViedoUrls = () => {
         return {
-            mp4Url: 'https://s3.mds.yandex.net/3d-tours-preview/2764358b-32ee-47ef-9577-1244a9f558fc/desktop.mp4',
-            webmUrl: 'https://s3.mds.yandex.net/3d-tours-preview/2764358b-32ee-47ef-9577-1244a9f558fc/desktop.webm',
+            mp4Url: 'https://3d-tours-preview.s3.yandex.net/9b29d4f1-7a60-496d-90a2-5fda8806f33d/touch.mp4',
+            webmUrl: 'https://3d-tours-preview.s3.yandex.net/9b29d4f1-7a60-496d-90a2-5fda8806f33d/touch.webm',
         };
     }
 
@@ -34,7 +34,7 @@ export const OfferPanorama: React.FC<PropsWithChildren<IOfferPanoramaProps>> = (
         <InView 
             onChange={handleIntersection} 
             className={cn(className, styles.container)}
-            rootMargin="0px 0px 400px 0px"
+            rootMargin="0px 0px 200px 0px"
             onMouseEnter={handleMouseEnter}
             onMouseMove={handleMouseMove}
             onMouseLeave={handleMouseLeave}
@@ -56,7 +56,6 @@ export const OfferPanorama: React.FC<PropsWithChildren<IOfferPanoramaProps>> = (
               <source src={mp4Url} type="video/mp4" />
               <source src={webmUrl} type="video/webm" />
             </video>
-            <canvas className={styles.canvas} ref={canvasRef} />
             {children}
         </InView>
     )

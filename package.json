@@ -3,23 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "@types/jest": "^27.5.2",
-    "@types/lodash": "^4.17.0",
-    "@types/node": "^16.18.89",
-    "@types/react": "^18.2.65",
-    "@types/react-dom": "^18.2.22",
-    "classnames": "^2.5.1",
-    "lodash": "^4.17.21",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-intersection-observer": "^9.8.1",
+    "@testing-library/jest-dom": "5.17.0",
+    "@testing-library/react": "13.4.0",
+    "@testing-library/user-event": "13.5.0",
+    "@types/jest": "27.5.2",
+    "@types/lodash": "4.17.0",
+    "@types/node": "16.18.89",
+    "@types/react": "18.2.65",
+    "@types/react-dom": "18.2.22",
+    "antd": "^5.15.3",
+    "classnames": "2.5.1",
+    "copy-to-clipboard": "^3.3.3",
+    "lodash": "4.17.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-intersection-observer": "9.8.1",
     "react-scripts": "5.0.1",
-    "scrolly-video": "^0.0.17",
-    "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4"
+    "recharts": "^2.12.3",
+    "scrolly-video": "0.0.17",
+    "typescript": "4.9.5",
+    "web-vitals": "2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -44,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "typescript-plugin-css-modules": "^5.1.0"
   }
 }

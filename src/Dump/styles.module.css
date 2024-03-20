@@ -1,7 +1,10 @@
 .container {
     box-sizing: border-box;
-    width: 220px;
-    height: 186px;
+    /* width: 220px;
+    height: 186px; */
+    width: 100%;
+    max-width: 400px;
+    height: 200px;
     border-radius: 8px;
     background: rgba(187, 185, 187, 0.067);
 
